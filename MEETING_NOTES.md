@@ -10,7 +10,7 @@
 
 * Ankur Banerjee, Co-founder at cheqd  (filling in for Alex Tweeddale) — [alex@cheqd.io](mailto:alex@cheqd.io)  
 * Amit Sharma, CEO & Co-founder, Finclusive & TBD advisor — [amit@finclusive.com](mailto:amit@finclusive.com)   
-* Austin Cornell , Director of Revenue, Zero Hash — [austin.cornell@zerohash.com](mailto:austin.cornell@zerohash.com)   
+* Austin Cornell, Director of Revenue, Zero Hash — [austin.cornell@zerohash.com](mailto:austin.cornell@zerohash.com)   
 * Cameron Gray, CTO at SmileID (biggest KYC provider in Africa) — [cameron@usesmileid.com](mailto:cameron@usesmileid.com)  
 * Chris Sutton, Product at Zero Hash — [chris.sutton@zerohash.com](mailto:chris.sutton@zerohash.com)  
 * Christopher Ostrowski, Product and operations at FinClusive — [christopher.ostrowski@finclusive.com](mailto:christopher.ostrowski@finclusive.com)  
